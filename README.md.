@@ -1,0 +1,22 @@
+# PhoneNow Customer Churn Analysis
+
+## Project Overview
+This project analyzes customer churn and retention for PhoneNow using Microsoft Excel. The objective is to identify the factors contributing to customer attrition and provide actionable insights to improve customer retention.
+
+## Key KPIs
+- Customers who left within the last month
+- Customer retention rate
+- Service subscriptions
+- Contract types
+- Payment methods
+- Monthly and total charges
+- Administrative and technical support tickets
+- Customer demographics
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Cleaning and Transformation
+ 
